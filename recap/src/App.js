@@ -7,10 +7,7 @@ function App() {
   return (
     <div className="App">
       <MovieCounter></MovieCounter>
-      <Nayok name={nayoks[1]} age="53"></Nayok>
-      <Nayok name="shakib"></Nayok>
-      <Nayok name="Bapparaz"></Nayok>
-      <Nayok name={nayoks[2]}></Nayok>
+      
       
       {
        // nayoks.map(nayok => <li>{nayok}</li>)
